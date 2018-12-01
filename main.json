@@ -1,0 +1,56 @@
+{
+	"profile": {
+		"img": "NYC.jpg",
+		"name": "Pavani Reminisetty",
+		"roll": "16NN1A1244",
+		"institution": "Vignan's Nirula",
+		"place": "Guntur"
+	},
+	"career": {
+
+		"info": "Software Engineer"
+	},
+	"education": [{
+			"degree": "b.tech",
+			"college": "Vignan",
+			"yop": "2020"
+		},
+		{
+			"degree": "intermediate",
+			"college": "narayana",
+			"yop": "2015"
+		},
+		{
+			"degree": "cbse",
+			"college": "jnv",
+			"yop": "2013"
+		}
+	],
+	"languages": [{
+			"lang": "english"
+		},
+		{
+			"lang": "telugu"
+		},
+		{
+			"lang": "hindi"
+		}
+	],
+	"skills":[
+		{
+           "title":"platforms",
+           "content":"windows,linux"
+		},
+		{
+			"title":"programming languages",
+			"content":"c,c++,java"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+		}
+	]
+
+}
+
+
